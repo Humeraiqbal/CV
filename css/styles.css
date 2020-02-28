@@ -33,7 +33,7 @@ hr {
 }
 
 p {
-   color: #696969;
+  color: #696969;
   font-size: 20px;
   line-height: 2;
 }
@@ -99,6 +99,10 @@ padding: 10px 0 10px 0;
   margin: 40px auto 60px;
 }
 
+.CurryPlate {
+  bottom: 0px;
+}
+
 .footer-link:hover {
   color: #FF80B0;
   }
@@ -128,7 +132,7 @@ padding: 10px 0 10px 0;
 }
 
 .skill-row {
-  width: 50%;
+  width: 80%;
   margin: 50px auto 50px auto;
   text-align: left;
   line-height: 2;
